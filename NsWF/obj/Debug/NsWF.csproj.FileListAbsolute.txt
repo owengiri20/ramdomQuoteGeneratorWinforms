@@ -1,0 +1,14 @@
+G:\MobileApps\QuotesTesting\NsWF\NsWF\bin\Debug\NsWF.exe.config
+G:\MobileApps\QuotesTesting\NsWF\NsWF\bin\Debug\NsWF.exe
+G:\MobileApps\QuotesTesting\NsWF\NsWF\bin\Debug\NsWF.pdb
+G:\MobileApps\QuotesTesting\NsWF\NsWF\bin\Debug\Newtonsoft.Json.dll
+G:\MobileApps\QuotesTesting\NsWF\NsWF\bin\Debug\Newtonsoft.Json.pdb
+G:\MobileApps\QuotesTesting\NsWF\NsWF\bin\Debug\Newtonsoft.Json.xml
+G:\MobileApps\QuotesTesting\NsWF\NsWF\obj\Debug\NsWF.csprojAssemblyReference.cache
+G:\MobileApps\QuotesTesting\NsWF\NsWF\obj\Debug\NsWF.Form1.resources
+G:\MobileApps\QuotesTesting\NsWF\NsWF\obj\Debug\NsWF.Properties.Resources.resources
+G:\MobileApps\QuotesTesting\NsWF\NsWF\obj\Debug\NsWF.csproj.GenerateResource.cache
+G:\MobileApps\QuotesTesting\NsWF\NsWF\obj\Debug\NsWF.csproj.CoreCompileInputs.cache
+G:\MobileApps\QuotesTesting\NsWF\NsWF\obj\Debug\NsWF.csproj.CopyComplete
+G:\MobileApps\QuotesTesting\NsWF\NsWF\obj\Debug\NsWF.exe
+G:\MobileApps\QuotesTesting\NsWF\NsWF\obj\Debug\NsWF.pdb
